@@ -1,0 +1,8 @@
+item_id,programme,work_type,priority,status,days_in_status,sla_days,risk_flag,dependencies_blocked,owner_role,last_update_date,delivery_confidence
+DEL-001,Secure Systems,Milestone,High,In Progress,42,30,Y,2,Delivery Manager,05/01/2026,Low
+DEL-002,Utilities Modernisation,Incident,Medium,Open,8,10,N,0,Ops Lead,01/02/2026,High
+DEL-003,Defence Platform,Milestone,Critical,At Risk,65,45,Y,3,Programme Lead,15/12/2025,Low
+DEL-004,Digital Services,Change Request,Low,In Progress,12,20,N,1,Product Owner,02/02/2026,Medium
+DEL-005,Secure Systems,Incident,High,Open,18,7,Y,0,Ops Lead,20/01/2026,Low
+DEL-006,Utilities Modernisation,Milestone,High,At Risk,33,30,Y,1,Delivery Manager,10/01/2026,Medium
+DEL-007,Defence Platform,Incident,Critical,Open,5,3,Y,0,Ops Lead,03/02/2026,Low
